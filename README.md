@@ -35,8 +35,8 @@ A simple and responsive Notes & Tasks web app built using **React** and **Tailwi
 
 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/notes-tasks-app.git
-cd notes-tasks-app
+git clone https://github.com/Darshan4664/Notedown.git
+cd Notedown-app
 ```
 
 2. Install dependencies
